@@ -11,3 +11,5 @@ I'm passionate about Data Science, Artificial Intelligence, and Content Creation
 🎯 Future goal: Become a successful AI Researcher & Educator
 
 📧 Contact me at [dinkarthakur120@gmail.com] | [7766961686]
+ Linkedln: [www.linkedin.com/in/dinkarthakur5197]
+
