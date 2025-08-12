@@ -3,7 +3,7 @@
 <p align="center">
   <em>
     Second-year student pursuing <strong>Bachelor in Data Science & AI from IIT Guwahati</strong>.<br>
-    Passionate about solving real-world problems through tech, with a keen interest in <strong>Problem Solving</strong>and <strong> Machine Learning<strong>.
+    Passionate about solving real-world problems through tech, with a keen interest in <strong>Problem Solving</strong> and <strong> Machine Learning<strong>.
   </em>
 </p>
 
@@ -21,7 +21,7 @@
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://twitter.com/DinkarThakur17" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/dinkarthaur5197" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/dinkarthakur5197" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/_dinkarthakur_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
