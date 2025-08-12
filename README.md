@@ -10,11 +10,11 @@
 ---
 
 ### 🧠 About Me
-🎓 I’m currently studying **Data Science and Artificial Intelligence**
-🌱 Currently learning: Machine Learning, Solving Problems
-💻 I love working on **creative and meaningful projects**
-🤝 I’m looking to collaborate on open-source and real-life applications
-🧩 I’m improving my skills by participating in coding contests and contributing to the dev community
+🎓 I’m currently studying **Data Science and Artificial Intelligence**  
+🌱 Currently learning: Machine Learning, Solving Problems  
+💻 I love working on **creative and meaningful projects**  
+🤝 I’m looking to collaborate on open-source and real-life applications  
+🧩 I’m improving my skills by participating in coding contests and contributing to the dev community  
 
 ---
 
@@ -40,14 +40,15 @@
 ### ⚙️ Languages and Tools
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
@@ -70,21 +71,9 @@
 ### 📜 Certifications
 
 📊 [Complete Data Analyst Bootcamp from Basic to Advanced – Udemy]()  
-🤖 [Mathematics-Basics to Advanced for Data Science And GenAI -Udemy]()  
-
-  </tr>
-</table>
-
-
-
-
-
-
-
-
+🤖 [Mathematics-Basics to Advanced for Data Science And GenAI - Udemy]()  
 
 ---
-
 
 ### 🙌 Let's Build Something Great
 Thanks for visiting! I'm always open to exciting collaborations, learning opportunities, and challenges.
